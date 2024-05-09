@@ -5,6 +5,10 @@ This Flask-based Library Management System allows users to manage a collection o
 ## OUTPUT
 
 
+https://github.com/sarvesh-2109/Library-Management-System/assets/113255836/09e7d1fe-5057-4a81-96a9-ab00ac14dad5
+
+
+
 ## Project Structure
 
 Here's a breakdown of the project files and their purpose:
